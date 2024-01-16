@@ -1,0 +1,2 @@
+# requirements.txt
+# Adicione as dependências do seu projeto aqui.
